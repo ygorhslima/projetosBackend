@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/ygorhslima/projetosBackend#readme",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "sequelize": "^6.37.7"
   },
   "devDependencies": {
     "@types/express": "^5.0.5",

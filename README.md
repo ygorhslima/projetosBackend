@@ -14,6 +14,7 @@ npm i --save-dev @types/express
 npm i --save-dev @types/node
 npm i --save-dev ts-node
 npm i --save-dev nodemon
+npm i sequelize
 tsc --init
 
 pra executar com ts-node
