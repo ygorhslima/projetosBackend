@@ -16,6 +16,13 @@
             "name": "Run Current File",
             "request": "launch",
             "program": "${workspaceFolder}/01-sistema-de-votacao/index.js"
+        },
+        {
+            "type": "node-terminal",
+            "name": "Run Script: test",
+            "request": "launch",
+            "command": "npm run test",
+            "cwd": "${workspaceFolder}"
         }
     ]
 }
