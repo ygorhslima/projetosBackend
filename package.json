@@ -21,6 +21,7 @@
   "dependencies": {
     "express": "^5.1.0",
     "prompt-sync": "^4.2.0",
+    "router-express": "^1.5.2",
     "sequelize": "^6.37.7"
   },
   "devDependencies": {
