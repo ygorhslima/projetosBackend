@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/ygorhslima/projetosBackend#readme",
   "dependencies": {
+    "@types/prompt-sync": "^4.2.3",
     "express": "^5.1.0",
     "prompt-sync": "^4.2.0",
     "router-express": "^1.5.2",
@@ -28,7 +29,6 @@
   "devDependencies": {
     "@types/express": "^5.0.5",
     "@types/node": "^24.10.1",
-    "nodemon": "^3.1.11",
-    "ts-node": "^10.9.2"
+    "nodemon": "^3.1.11"
   }
 }
